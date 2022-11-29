@@ -3,6 +3,7 @@
 This repository contains the files required to plot the average monthly rainfall of Oxford vs. Melbourne.
 
 It does this by first combining the two datasets in a single data frame before creating a plot. 
+
 To run this analysis use the following command :
 ```
 Rscript src/combine-data.R
