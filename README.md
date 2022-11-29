@@ -1,6 +1,7 @@
 # HomeworkQuestion3
 
-This repository contains the files required to plot the average monthly rainfall of Oxford vs. Melbourne
+This repository contains the files required to plot the average monthly rainfall of Oxford vs. Melbourne.
+
 It does this by first combining the data in a single file before plotting them. 
 To run this analysis use the following command :
 ```
